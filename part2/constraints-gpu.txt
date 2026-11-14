@@ -1,0 +1,9 @@
+# Versions used by the course run for core Python/CUDA packages.
+torch==2.7.1
+torchvision==0.22.1
+numpy==1.26.4
+opencv-python==4.11.0.86
+cupy-cuda12x==13.6.0
+cuda-python==12.8.0
+lpips==0.1.4
+pycolmap==4.2.1

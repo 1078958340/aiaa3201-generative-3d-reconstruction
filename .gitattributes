@@ -1,0 +1,8 @@
+* text=auto eol=lf
+*.sh text eol=lf
+*.json text eol=lf
+*.csv text eol=lf
+part2/input_plan.json -text
+
+# Preserve the upstream Markdown hard line breaks in the license.
+part2/upstream-licenses/i3dgs.md whitespace=-blank-at-eol
